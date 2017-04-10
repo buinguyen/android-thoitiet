@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TTVN1</string>
+
+    <string name="degree_celsius">\u2103</string>
+    <string name="pretext_title_today">Thời tiết\u0020</string>
+    <string name="title_today">Thời tiết hiện tại</string>
+    <string name="pretext_temp">Nhiệt độ hiện tại:\u0020</string>
+    <string name="pretext_min_temp">Nhiệt độ thấp nhất:\u0020</string>
+    <string name="pretext_max_temp">Nhiệt độ cao nhất:\u0020</string>
+    <string name="pretext_do_am">Độ ẩm:\u0020</string>
+    <string name="pretext_wind">Hướng gió:\u0020</string>
+</resources>

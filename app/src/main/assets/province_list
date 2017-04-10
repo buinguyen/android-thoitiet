@@ -1,0 +1,386 @@
+[
+{
+  "id":"01",
+  "area":"Phía Tây Bắc Bộ",
+  "name":"Điện Biên",
+  "link":"http://www.nchmf.gov.vn/Web/vi-VN/62/18/70/map/Default.aspx"
+},
+{
+  "id":"02",
+  "area":"Phía Tây Bắc Bộ",
+  "name":"Hòa Bình",
+  "link":"http://www.nchmf.gov.vn/Web/vi-VN/62/18/4/map/Default.aspx"
+},
+{
+  "id":"03",
+  "area":"Phía Tây Bắc Bộ",
+  "name":"Lào Cai",
+  "link":"http://www.nchmf.gov.vn/Web/vi-VN/62/18/69/map/Default.aspx"
+},
+{
+  "id":"04",
+  "area":"Phía Tây Bắc Bộ",
+  "name":"Lai Châu",
+  "link":"http://www.nchmf.gov.vn/Web/vi-VN/62/18/127/map/Default.aspx"
+},
+{
+  "id":"05",
+  "area":"Phía Tây Bắc Bộ",
+  "name":"Sơn La",
+  "link":"http://www.nchmf.gov.vn/Web/vi-VN/62/18/78/map/Default.aspx"
+},
+{
+  "id":"06",
+  "area":"Phía Tây Bắc Bộ",
+  "name":"Yên Bái",
+  "link":"http://www.nchmf.gov.vn/Web/vi-VN/62/18/87/map/Default.aspx"
+},
+{
+  "id":"07",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Bắc Giang",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/80/map/Default.aspx"
+},
+{
+  "id":"08",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Bắc Ninh",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/81/map/Default.aspx"
+},
+{
+  "id":"09",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Bắc Kạn",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/86/map/Default.aspx"
+},
+{
+  "id":"10",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Cao Bằng",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/83/map/Default.aspx"
+},
+{
+  "id":"11",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Hải Phòng",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/88/map/Default.aspx"
+},
+{
+  "id":"12",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Quảng Ninh",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/137/map/Default.aspx"
+},
+{
+  "id":"13",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Hải Dương",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/48/map/Default.aspx"
+},
+{
+  "id":"14",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Hưng Yên",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/63/map/Default.aspx"
+},
+{
+  "id":"15",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Hà Giang",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/68/map/Default.aspx"
+},
+{
+  "id":"16",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Lạng Sơn",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/82/map/Default.aspx"
+},
+{
+  "id":"17",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Nam Định",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/82/map/Default.aspx"
+},
+{
+  "id":"18",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Ninh Bình",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/46/map/Default.aspx"
+},
+{
+  "id":"19",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Hà Nam",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/49/map/Default.aspx"
+},
+{
+  "id":"20",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Hà Nội",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/58/map/Default.aspx"
+},
+{
+  "id":"21",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Thái Bình",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/47/map/Default.aspx"
+},
+{
+  "id":"22",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Tuyên Quang",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/84/map/Default.aspx"
+},
+{
+  "id":"23",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Thái Nguyên",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/85/map/Default.aspx"
+},
+{
+  "id":"24",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Phú Thọ",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/76/map/Default.aspx"
+},
+{
+  "id":"25",
+  "area":"Phía Đông Bắc Bộ",
+  "name":"Vĩnh Phúc",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/77/map/Default.aspx"
+},
+{
+  "id":"26",
+  "area":"Thanh Hóa - TT. Huế",
+  "name":"Hà Tĩnh",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/20/28/map/Default.aspx"
+},
+{
+  "id":"27",
+  "area":"Thanh Hóa - TT. Huế",
+  "name":"Huế",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/20/31/map/Default.aspx"
+},
+{
+  "id":"28",
+  "area":"Thanh Hóa - TT. Huế",
+  "name":"Quảng Bình",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/20/29/map/Default.aspx"
+},
+{
+  "id":"29",
+  "area":"Thanh Hóa - TT. Huế",
+  "name":"Quảng Trị",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/20/30/map/Default.aspx"
+},
+{
+  "id":"30",
+  "area":"Thanh Hóa - TT. Huế",
+  "name":"Thanh Hóa",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/20/106/map/Default.aspx"
+},
+{
+  "id":"31",
+  "area":"Thanh Hóa - TT. Huế",
+  "name":"Nghệ An",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/20/111/map/Default.aspx"
+},
+{
+  "id":"32",
+  "area":"Đà Nẵng - Bình Thuận",
+  "name":"Bình Định",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/21/94/map/Default.aspx"
+},
+{
+  "id":"33",
+  "area":"Đà Nẵng - Bình Thuận",
+  "name":"Bình Thuận",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/21/138/map/Default.aspx"
+},
+{
+  "id":"34",
+  "area":"Đà Nẵng - Bình Thuận",
+  "name":"Đà Nẵng",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/21/92/map/Default.aspx"
+},
+{
+  "id":"35",
+  "area":"Đà Nẵng - Bình Thuận",
+  "name":"Khánh Hòa",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/21/37/map/Default.aspx"
+},
+{
+  "id":"36",
+  "area":"Đà Nẵng - Bình Thuận",
+  "name":"Ninh Thuận",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/21/100/map/Default.aspx"
+},
+{
+  "id":"37",
+  "area":"Đà Nẵng - Bình Thuận",
+  "name":"Phú Yên",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/21/99/map/Default.aspx"
+},
+{
+  "id":"38",
+  "area":"Đà Nẵng - Bình Thuận",
+  "name":"Quảng Nam",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/21/119/map/Default.aspx"
+},
+{
+  "id":"39",
+  "area":"Đà Nẵng - Bình Thuận",
+  "name":"Quảng Ngãi",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/21/34/map/Default.aspx"
+},
+{
+  "id":"40",
+  "area":"Tây Nguyên",
+  "name":"Đà Lạt",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/22/43/map/Default.aspx"
+},
+{
+  "id":"41",
+  "area":"Tây Nguyên",
+  "name":"Đắk Lắk",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/22/42/map/Default.aspx"
+},
+{
+  "id":"42",
+  "area":"Tây Nguyên",
+  "name":"Đắk Nông",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/22/71/map/Default.aspx"
+},
+{
+  "id":"43",
+  "area":"Tây Nguyên",
+  "name":"Kon Tum",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/22/40/map/Default.aspx"
+},
+{
+  "id":"44",
+  "area":"Tây Nguyên",
+  "name":"Pleiku",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/22/41/map/Default.aspx"
+},
+{
+  "id":"45",
+  "area":"Nam Bộ",
+  "name":"An Giang",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/96/map/Default.aspx"
+},
+{
+  "id":"46",
+  "area":"Nam Bộ",
+  "name":"Bình Dương",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/45/map/Default.aspx"
+},
+{
+  "id":"47",
+  "area":"Nam Bộ",
+  "name":"Bến Tre",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/53/map/Default.aspx"
+},
+{
+  "id":"48",
+  "area":"Nam Bộ",
+  "name":"Bạc Liêu",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/59/map/Default.aspx"
+},
+{
+  "id":"49",
+  "area":"Nam Bộ",
+  "name":"Bình Phước",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/60/map/Default.aspx"
+},
+{
+  "id":"50",
+  "area":"Nam Bộ",
+  "name":"Cà Mau",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/74/map/Default.aspx"
+},
+{
+  "id":"51",
+  "area":"Nam Bộ",
+  "name":"Cần Thơ",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/56/map/Default.aspx"
+},
+{
+  "id":"52",
+  "area":"Nam Bộ",
+  "name":"Đồng Nai",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/62/map/Default.aspx"
+},
+{
+  "id":"53",
+  "area":"Nam Bộ",
+  "name":"Đồng Tháp",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/51/map/Default.aspx"
+},
+{
+  "id":"54",
+  "area":"Nam Bộ",
+  "name":"Kiên Giang",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/73/map/Default.aspx"
+},
+{
+  "id":"55",
+  "area":"Nam Bộ",
+  "name":"Long An",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/50/map/Default.aspx"
+},
+{
+  "id":"56",
+  "area":"Nam Bộ",
+  "name":"Phú Quốc",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/135/map/Default.aspx"
+},
+{
+  "id":"57",
+  "area":"Nam Bộ",
+  "name":"Sóc Trăng",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/57/map/Default.aspx"
+},
+{
+  "id":"58",
+  "area":"Nam Bộ",
+  "name":"Trà Vinh",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/54/map/Default.aspx"
+},
+{
+  "id":"59",
+  "area":"Nam Bộ",
+  "name":"Tiền Giang",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/52/map/Default.aspx"
+},
+{
+  "id":"60",
+  "area":"Nam Bộ",
+  "name":"TP. Hồ Chí Minh",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/44/map/Default.aspx"
+},
+{
+  "id":"61",
+  "area":"Nam Bộ",
+  "name":"Tây Ninh",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/66/map/Default.aspx"
+},
+{
+  "id":"62",
+  "area":"Nam Bộ",
+  "name":"Vũng Tàu",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/61/map/Default.aspx"
+},
+{
+  "id":"63",
+  "area":"Nam Bộ",
+  "name":"Vĩnh Long",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/23/95/map/Default.aspx"
+},
+{
+  "id":"64",
+  "area":"Hà Nội",
+  "name":"Hà Nội",
+  "link":"http://www.nchmf.gov.vn/web/vi-VN/62/19/58/map/Default.aspx"
+}
+]
